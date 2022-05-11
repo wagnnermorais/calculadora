@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pagina{
+    background: linear-gradient(37deg, black, crimson);
+    height: 100vh;
+    color: #fff;
+}
+
+.calculadora{
+    font-family: 'Koulen', cursive;
+    font-size: 24px;
+    text-align: center;
+    background-color: black;
+    border-radius: 8px;
+    padding: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.botao{
+    background-color: rgba(31, 31, 31, 0.8);
+    width: 50px;
+    border-radius: 8px;
+    height: 35px;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    color: #fff;
+    margin: 5px;
+}
+
+.botao:hover{
+    background-color: black;
+    border: 0.5px solid white;
+}
+
+#resultado{
+    width: 100%;
+    background: #fff;
+    color: black;
+    text-align: right;
+    margin-bottom: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
