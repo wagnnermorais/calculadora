@@ -4,3 +4,5 @@ Um pequeno projeto de uma simples calculadora básica, coloquei em prática algu
 <br><br>
 Restam algumas melhorias para serem feitas que estarei implementando conforme for melhorando na linguagem e buscando mais conhecimento, porém, para algum uso básico e
 de cálculos simples, ela quebra um galho :chopsticks:.
+
+![](img/calculadora.png)
