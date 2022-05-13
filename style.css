@@ -6,7 +6,7 @@
 }
 
 .pagina{
-    background: linear-gradient(37deg, black, crimson);
+    background: linear-gradient(37deg, black, rgb(105, 27, 116));
     height: 100vh;
     color: #fff;
 }
@@ -15,7 +15,7 @@
     font-family: 'Koulen', cursive;
     font-size: 24px;
     text-align: center;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     border-radius: 8px;
     padding: 25px;
     position: absolute;
@@ -25,7 +25,7 @@
 }
 
 .botao{
-    background-color: rgba(31, 31, 31, 0.8);
+    background-color: rgba(101, 29, 143, 0.8);
     width: 50px;
     border-radius: 8px;
     height: 35px;
