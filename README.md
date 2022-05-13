@@ -6,5 +6,5 @@ Restam algumas melhorias para serem feitas que estarei implementando conforme fo
 de cálculos simples, ela quebra um galho :chopsticks:.
 <br>
 <p align="center">
-<img src="img/calculadora.png" width="646" height="590">
+<img src="img/Calculadora.png" width="646" height="590">
 </p>
